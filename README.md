@@ -1,16 +1,6 @@
-# untitled1
+# destini-flutter-practice
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##엔젤라와 함께하는 flutter강의 chanllenge
+- 기본앱 class 및 상속 개념, 함수 실행법등을 다룸.
+- 스토리보드를 통해 클릭에 따라 다른 선택지가 주어지고 결말이 나오는 앱
+- 결말이 나오면 Restart를 통해 다시 사용자가 첨부터 시작 가능
